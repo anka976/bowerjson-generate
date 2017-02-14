@@ -11,4 +11,4 @@ Template for generated file: `bower.base.json`.
 
 ####Execute
 
-    `npm start`
+    npm start
