@@ -12,6 +12,9 @@
   ],
   "author": "Anna Kulikova",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/anka976/bowerjson-generate.git"
+  },
   "devDependencies": {
     "gulp": "^3.9.1"
   }
