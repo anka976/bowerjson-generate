@@ -8,6 +8,7 @@ Template for generated file: `bower.base.json`.
 1. install node and npm
 2. install gulp-cli `npm install gulp-cli`
 3. clone this project and run `npm update`
+
 ####Execute
 
-    npm start
+    `npm start`
